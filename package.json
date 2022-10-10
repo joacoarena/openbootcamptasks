@@ -1,0 +1,18 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "this is my first project of javascript with node in open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "task": "Hello , this is mi first exersice with node in the best bootcamp of programming of the world"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "joaquin",
+  "license": "ISC"
+}
